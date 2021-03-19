@@ -1,0 +1,9 @@
+.team7{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	width: 150px;
+	height: 160px;
+	background: url(.png);
+	background-size: cover;
+}
